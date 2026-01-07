@@ -22,7 +22,3 @@ The project is designed following **real-world automation best practices** and i
 - HTML test reports
 - Screenshot & video capture on failure
 - CI/CD ready (GitHub Actions compatible)
-
----
-
-## 📁 Project Structure
